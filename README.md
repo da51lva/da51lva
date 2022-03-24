@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="./github-welcome.svg">
+
 <!--
 **da51lva/da51lva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
